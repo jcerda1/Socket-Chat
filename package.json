@@ -1,0 +1,22 @@
+{
+  "name": "socket-chat-example",
+  "version": "1.0.0",
+  "description": "This is a quick chat application that uses websockets(socketIO)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcerda1/Socket-Chat.git"
+  },
+  "author": "Jeramiah Cerda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcerda1/Socket-Chat/issues"
+  },
+  "homepage": "https://github.com/jcerda1/Socket-Chat#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
